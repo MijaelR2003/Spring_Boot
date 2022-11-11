@@ -1,6 +1,5 @@
 package com.MijaelRojas.MiPrimerSpringBoot.web;
 
-import com.MijaelRojas.MiPrimerSpringBoot.dao.PersonaDao;
 import com.MijaelRojas.MiPrimerSpringBoot.domain.Persona;
 import com.MijaelRojas.MiPrimerSpringBoot.servicio.PersonaService;
 import javax.validation.Valid;
